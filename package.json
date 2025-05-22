@@ -11,7 +11,9 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "@cypress/grep": "^4.1.0",
     "cypress": "^14.3.3",
+    "cypress-mochawesome-reporter": "^3.8.2",
     "dotenv": "^16.5.0"
   }
 }
